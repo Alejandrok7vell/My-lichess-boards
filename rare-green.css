@@ -1,0 +1,5 @@
+/* this board will be installed in the Green board theme */
+.green .is2d cg-board
+{
+    background-image: url("https://alejandrok7vell.neocities.org/rareGreen.svg");
+}
