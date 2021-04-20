@@ -7,5 +7,6 @@ Note: Styles do not work on **Analysis Board, Study, Puzzles, Puzzle Streak.**
 ---
 <img src="https://alejandrok7vell.neocities.org/red.svg" height=200px>
 <img src="https://alejandrok7vell.neocities.org/grey.svg" height=200px>
+<img src="https://alejandrok7vell.neocities.org/transparentWhite.svg" height=200px>
 <img src="https://alejandrok7vell.neocities.org/yellow.svg" height=200px>
 <img src="https://alejandrok7vell.neocities.org/rareGreen.svg" height=200px>
